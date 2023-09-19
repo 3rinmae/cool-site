@@ -21,8 +21,8 @@ main {
   display: flex;
   background-color: #061130;
   color: #f4f6f8;
-  justify-content: center;
-  padding: 75px;
+  justify-content: space-evenly;
+  padding: 85px;
 }
 
 button {
@@ -46,7 +46,7 @@ button {
 
 .servicesText {
   display: block;
-  width: 33%;
+  width: 17%;
 }
 
 .world {
