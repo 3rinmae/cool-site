@@ -2,19 +2,14 @@
 
 header {
   display: flex;
-  /* align-items: center; */
   background-color: #061130;
   color: #f4f6f8;
-  /* width: 100vw; */
   padding: 1em;
   justify-content: space-between;
 }
 
-
 nav {
   display: flex;
-  /* width: 86%; */
-  /* justify-content: flex-end; */
   align-items: center;
 }
 
@@ -27,7 +22,6 @@ main {
   background-color: #061130;
   color: #f4f6f8;
   justify-content: center;
-  /* width: 79vw; */
   padding: 75px;
 }
 
